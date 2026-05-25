@@ -5,7 +5,7 @@ Banks lose billions of dollars annually due to fraudulent transactions.
 This project builds a machine learning model to detect fraud in real-time.
 
 ## Demo
-> Coming soon after deployment
+[🚀 Live App](https://fraud-detection-sagid.streamlit.app)
 
 ## Technologies Used
 - Python
